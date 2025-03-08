@@ -1,0 +1,27 @@
+.creacion-comprimido-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.creacion-comprimido-container .p-card {
+  margin-bottom: 2rem;
+}
+
+.creacion-comprimido-container .p-fileupload-content {
+  min-height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.creacion-comprimido-container .p-fileupload-row {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.creacion-comprimido-container .p-fileupload-row:last-child {
+  border-bottom: none;
+}
